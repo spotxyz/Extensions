@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+f6df611dc068690253171d0471f96855 CMakeFiles/recast-bindings
+f6df611dc068690253171d0471f96855 CMakeFiles/recast-javascript
+f6df611dc068690253171d0471f96855 CMakeFiles/recast-wasm
+bb18909f1e703f2fad8de0c082ecfa00 glue.cpp
+a68dba2876502b3e7b7443f4e4ed29a1 glue.o
+146bc013751a3d1f7bdf667ec7c149cc recast.js
+5c3885dc9d7cd07613256606aaf99b82 recast.wasm.js

@@ -1,0 +1,6 @@
+/Users/ghempton/projects/BabylonJS/Extensions/recastjs/build/CMakeFiles/recast.dir
+/Users/ghempton/projects/BabylonJS/Extensions/recastjs/build/CMakeFiles/recast-bindings.dir
+/Users/ghempton/projects/BabylonJS/Extensions/recastjs/build/CMakeFiles/recast-javascript.dir
+/Users/ghempton/projects/BabylonJS/Extensions/recastjs/build/CMakeFiles/recast-wasm.dir
+/Users/ghempton/projects/BabylonJS/Extensions/recastjs/build/CMakeFiles/edit_cache.dir
+/Users/ghempton/projects/BabylonJS/Extensions/recastjs/build/CMakeFiles/rebuild_cache.dir
